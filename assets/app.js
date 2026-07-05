@@ -18,7 +18,7 @@
   "event": {
     "label": "Mi graduación",
     "celebrantName": "Prim. Justo Sierra",
-    "eventDate": "2026-07-13T08:30",
+    "eventDate": "2026-07-13T07:30",
     "eventEnd": "2026-07-13T13:00",
     "timeZone": "America/Mexico_City",
     "eventLocation": "Top Salón Obispado",
@@ -66,7 +66,7 @@
   },
   "ceremony": {
     "title": "Ceremonia",
-    "time": "08:30 hrs",
+    "time": "07:30 hrs",
     "place": "Iglesia de Santo Domingo",
     "mediaMode": "preview",
     "iconSrc": "cereminia.png",
@@ -87,7 +87,7 @@
   "timeline": {
     "items": [
       {
-        "time": "08:30 hrs",
+        "time": "07:30 hrs",
         "title": "Ceremonia",
         "desc": "Iglesia de Santo Domingo"
       },
