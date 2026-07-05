@@ -1,6 +1,7 @@
 (() => {
   "use strict";
 
+  
   // Evita listeners, timers y animaciones duplicadas si el script se inyecta dos veces.
   if (window.__DIGITAL_INVITA_APP_INITIALIZED__) {
     console.warn("Digital Invita ya estaba inicializada; se omitio una segunda carga.");
