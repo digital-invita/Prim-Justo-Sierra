@@ -67,7 +67,7 @@
   "ceremony": {
     "title": "Ceremonia",
     "time": "08:30 hrs",
-    "place": "Iglesia de \"Santo Domingo",
+    "place": "Iglesia de Santo Domingo",
     "mediaMode": "preview",
     "iconSrc": "cereminia.png",
     "mapEmbed": "https://www.google.com/maps/embed?pb=!3m2!1ses-419!2smx!4v1783215245354!5m2!1ses-419!2smx!6m8!1m7!1sXqwZ3P_w80Gb_Uw0kTJt2Q!2m2!1d19.76261599633266!2d-98.95470081715561!3f66.04353500702416!4f10.648578501892814!5f0.7820865974627469",
@@ -89,7 +89,7 @@
       {
         "time": "08:30 hrs",
         "title": "Ceremonia",
-        "desc": "Iglesia de "
+        "desc": "Iglesia de Santo Domingo"
       },
       {
         "time": "09:00 hrs",
