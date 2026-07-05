@@ -11,27 +11,27 @@
     const INVITATION_CONFIG =
 {
   "meta": {
-    "pageTitle": "Mis XV | Nicole",
+    "pageTitle": "Prim. Justo Sierra",
     "ogTitle": "",
-    "ogDescription": "Acompáñanos a celebrar este día tan especial"
+    "ogDescription": "Tenemos el honor de invitarle a la\nceremonia de Graduación"
   },
   "event": {
-    "label": "Mis XV",
-    "celebrantName": "Nicole",
-    "eventDate": "2026-07-04T19:30",
-    "eventEnd": "2026-07-05T02:00",
+    "label": "Mi graduación",
+    "celebrantName": "Prim. Justo Sierra",
+    "eventDate": "2026-07-13T08:30",
+    "eventEnd": "2026-07-13T13:00",
     "timeZone": "America/Mexico_City",
     "eventLocation": "Top Salón Obispado",
-    "rsvpPhone": "871 221 47 46"
+    "rsvpPhone": "871 221 47 4"
   },
   "theme": {
-    "bgTop": "#eac7c8",
-    "bgMid": "#d29aa0",
-    "bgBottom": "#a86570",
+    "bgTop": "#081c3a",
+    "bgMid": "#1f4e79",
+    "bgBottom": "#6e8fb8",
     "gold500": "#f2c06f",
     "particleColor": "#fff4cf",
     "text": "#fffaf3",
-    "muted": "#f0c4b7",
+    "muted": "#ffffff",
     "bodyFont": "Cormorant Garamond",
     "scriptFont": "Dancing Script",
     "displayFont": "Dancing Script"
@@ -52,65 +52,70 @@
     ]
   },
   "story": {
-    "title": "Mi historia",
-    "paragraph1": "Hoy celebro no solo mis 15 años, sino cada sonrisa que iluminó mi camino, cada aprendizaje que fortaleció mi corazón y cada sueño que, con amor y esperanza, me ha traído hasta este momento tan especial de mi vida.",
-    "paragraph2": "Aquí termina un capítulo lleno de recuerdos que atesoraré por siempre y comienza uno nuevo, donde la ilusión, la luz y los sueños por cumplir marcan el inicio de todo lo que está por venir.",
+    "title": "Nuestro camino",
+    "paragraph1": "Hoy celebramos la culminación de una etapa llena de aprendizajes, esfuerzo y dedicación. Cada experiencia, cada reto y cada logro nos han traído hasta este momento tan especial, que representa el fruto de nuestro trabajo y perseverancia.",
+    "paragraph2": "Hoy cerramos un capítulo lleno de recuerdos inolvidables y abrimos las puertas a un futuro lleno de oportunidades. Con ilusión y gratitud, damos el primer paso hacia nuevos sueños, metas y grandes experiencias.",
     "showImage": true
   },
   "family": {
-    "parentsEyebrow": "En compañía de mis padres",
-    "parentsNamesHtml": "Lorena Catalina Romero García <br>&amp;<br>Juan Manuel Villalobos Medina",
-    "parentsInviteText": "Tenemos el honor de invitarles a celebrar mis XV años.",
-    "godparentsEyebrow": "Mis padrinos",
+    "parentsEyebrow": "Directora Escolar",
+    "parentsNamesHtml": "NO<br>&amp;<br>NO",
+    "parentsInviteText": "Tenemos el honor de invitarle a la\nceremonia de Graduación ",
+    "godparentsEyebrow": "Subdirectora escolar",
     "godparentsNamesHtml": "NO<br>&amp;<br>NO"
   },
   "ceremony": {
     "title": "Ceremonia",
-    "time": "19:30 hrs",
-    "place": "Capilla Nuestra Señora de los Angeles ",
-    "mediaMode": "icon",
+    "time": "08:30 hrs",
+    "place": "Iglesia de \"Santo Domingo",
+    "mediaMode": "preview",
     "iconSrc": "cereminia.png",
-    "mapEmbed": "",
+    "mapEmbed": "https://www.google.com/maps/embed?pb=!3m2!1ses-419!2smx!4v1783215245354!5m2!1ses-419!2smx!6m8!1m7!1sXqwZ3P_w80Gb_Uw0kTJt2Q!2m2!1d19.76261599633266!2d-98.95470081715561!3f66.04353500702416!4f10.648578501892814!5f0.7820865974627469",
     "photoSrc": "",
-    "mapLink": "https://maps.app.goo.gl/H6vG5pnkKAdFnoUi8"
+    "mapLink": "https://maps.app.goo.gl/aM8sywzDeYyj5qZt5"
   },
   "reception": {
-    "title": "Recepción",
-    "time": "21:00 hrs ",
-    "place": "Hacienda los Ángeles",
-    "mediaMode": "icon",
+    "title": "Ceremonia cívica ",
+    "time": "09:00 hrs ",
+    "place": "Escuela Primaria Federal Justo Sierra",
+    "mediaMode": "preview",
     "iconSrc": "recepcion.png",
-    "mapLink": "https://maps.app.goo.gl/H6vG5pnkKAdFnoUi8",
-    "mapEmbed": "",
+    "mapLink": "https://maps.app.goo.gl/sNmobFSgyiobFDS57",
+    "mapEmbed": "https://www.google.com/maps/embed?pb=!3m2!1ses-419!2smx!4v1783215391846!5m2!1ses-419!2smx!6m8!1m7!1sXqwZ3P_w80Gb_Uw0kTJt2Q!2m2!1d19.76261599633266!2d-98.95470081715561!3f237.93126738436632!4f7.140937497379113!5f0.4000000000000002",
     "photoSrc": ""
   },
   "timeline": {
     "items": [
       {
-        "time": "19:30 hrs",
+        "time": "08:30 hrs",
         "title": "Ceremonia",
-        "desc": "Capilla Nuestra Señora de los Angeles "
+        "desc": "Iglesia de "
       },
       {
-        "time": "21:00 hrs",
-        "title": "Recepción",
-        "desc": "Hacienda los Ángeles"
+        "time": "09:00 hrs",
+        "title": "Ceremonia cívica ",
+        "desc": "Escuela Primaria Federal Justo Sierra"
       },
       {
-        "time": "21:30 hrs",
+        "time": "",
         "title": "Vals",
-        "desc": "Presentación de Nicole. Un momento para brindar y compartir."
+        "desc": "Un momento lleno de emoción para celebrar el esfuerzo, la amistad y el inicio de una nueva etapa."
       },
       {
-        "time": "22:00 hrs",
-        "title": "Cena",
-        "desc": "Un momento para brindar y compartir."
+        "time": "",
+        "title": "Ultimo pase de lista ",
+        "desc": "Un momento especial para despedir esta etapa escolar."
+      },
+      {
+        "time": "",
+        "title": "Entrega de documentos ",
+        "desc": "Entrega oficial de los documentos de fin de curso."
       }
     ]
   },
   "countdown": {
     "title": "Faltan pocos días",
-    "intro": "La cuenta regresiva ha comenzado para vivir un momento inolvidable."
+    "intro": "Cada día nos acerca a la celebración de una meta alcanzada."
   },
   "dressCode": {
     "title": "Dress Code",
@@ -153,16 +158,16 @@
   },
   "sections": {
     "story": true,
-    "parents": true,
+    "parents": false,
     "godparents": false,
     "ceremony": true,
     "reception": true,
     "timeline": true,
     "countdown": true,
-    "gallery": true,
-    "dress": true,
-    "rsvp": true,
-    "gifts": true,
+    "gallery": false,
+    "dress": false,
+    "rsvp": false,
+    "gifts": false,
     "agenda": true,
     "album": false,
     "closing": true
@@ -186,7 +191,7 @@
     ]
   },
   "closing": {
-    "note": "Gracias por ser parte de este momento inolvidable"
+    "note": "\"Cada meta alcanzada es el inicio de un nuevo camino.\nHoy celebramos el esfuerzo, la dedicación y los sueños\nque comienzan a hacerse realidad.\""
   },
   "brand": {
     "creditText": "Creado por Digital Invita",
