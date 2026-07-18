@@ -12,27 +12,27 @@
     const INVITATION_CONFIG =
 {
   "meta": {
-    "pageTitle": "Mis XV | Sofia Montes",
+    "pageTitle": "Prim. Justo Sierra",
     "ogTitle": "",
-    "ogDescription": "Acompáñanos a celebrar este día tan especial"
+    "ogDescription": "Tenemos el honor de invitarle a la\nceremonia de Graduación"
   },
   "event": {
-    "label": "Mis XV",
-    "celebrantName": "Sofia Montes",
-    "eventDate": "2027-03-11T15:33",
-    "eventEnd": "2027-03-11T23:11",
+    "label": "Mi graduación",
+    "celebrantName": "Prim. Justo Sierra",
+    "eventDate": "2026-07-13T07:30",
+    "eventEnd": "2026-07-13T13:00",
     "timeZone": "America/Mexico_City",
     "eventLocation": "Top Salón Obispado",
-    "rsvpPhone": "5550591264"
+    "rsvpPhone": "871 221 47 4"
   },
   "theme": {
-    "bgTop": "#a86570",
-    "bgMid": "#df95a0",
-    "bgBottom": "#a86570",
+    "bgTop": "#081c3a",
+    "bgMid": "#1f4e79",
+    "bgBottom": "#6e8fb8",
     "gold500": "#f2c06f",
-    "particleColor": "#f2c06f",
-    "text": "#ffffff",
-    "muted": "#f0c4b7",
+    "particleColor": "#fff4cf",
+    "text": "#fffaf3",
+    "muted": "#ffffff",
     "bodyFont": "Cormorant Garamond",
     "scriptFont": "Dancing Script",
     "displayFont": "Dancing Script"
@@ -53,59 +53,64 @@
     ]
   },
   "story": {
-    "title": "Mi historia",
-    "paragraph1": "Hoy celebro no solo mis 15 años, sino cada sonrisa que iluminó mi camino, cada aprendizaje que fortaleció mi corazón y cada sueño que, con amor y esperanza, me ha traído hasta este momento tan especial de mi vida.",
-    "paragraph2": "Aquí termina un capítulo lleno de recuerdos que atesoraré por siempre y comienza uno nuevo, donde la ilusión, la luz y los sueños por cumplir marcan el inicio de todo lo que está por venir.",
+    "title": "Nuestro camino",
+    "paragraph1": "Hoy celebramos la culminación de una etapa llena de aprendizajes, esfuerzo y dedicación. Cada experiencia, cada reto y cada logro nos han traído hasta este momento tan especial, que representa el fruto de nuestro trabajo y perseverancia.",
+    "paragraph2": "Hoy cerramos un capítulo lleno de recuerdos inolvidables y abrimos las puertas a un futuro lleno de oportunidades. Con ilusión y gratitud, damos el primer paso hacia nuevos sueños, metas y grandes experiencias.",
     "showImage": true
   },
   "family": {
-    "parentsEyebrow": "En compañía de mis padres",
-    "parentsNamesHtml": "Adriana López Hernández<br>&amp;<br>Javier Montes Ramírez",
-    "parentsInviteText": "Tenemos el honor de invitarles a celebrar mis XV años.",
-    "godparentsEyebrow": "Mis padrinos",
-    "godparentsNamesHtml": "Gabriela Ruiz Mendoza<br>&amp;<br>Alejandro Hernández García"
+    "parentsEyebrow": "Directora Escolar",
+    "parentsNamesHtml": "NO<br>&amp;<br>NO",
+    "parentsInviteText": "Tenemos el honor de invitarle a la\nceremonia de Graduación ",
+    "godparentsEyebrow": "Subdirectora escolar",
+    "godparentsNamesHtml": "NO<br>&amp;<br>NO"
   },
   "ceremony": {
     "title": "Ceremonia",
-    "time": "15:30 hrs",
-    "place": "Parroquia del Sagrado Corazón de Jesús",
+    "time": "07:30 hrs",
+    "place": "Iglesia de Santo Domingo",
     "mediaMode": "preview",
     "iconSrc": "cereminia.png",
-    "mapEmbed": "https://www.google.com/maps/embed?pb=!3m2!1ses-419!2smx!4v1784406042559!5m2!1ses-419!2smx!6m8!1m7!1sW1KCTr9gtixxUy_1R9Ew2w!2m2!1d25.57659913575704!2d-103.5004368052986!3f202.70293243660157!4f15.440215328659107!5f1.7540701999762476",
+    "mapEmbed": "https://www.google.com/maps/embed?pb=!3m2!1ses-419!2smx!4v1783215245354!5m2!1ses-419!2smx!6m8!1m7!1sXqwZ3P_w80Gb_Uw0kTJt2Q!2m2!1d19.76261599633266!2d-98.95470081715561!3f66.04353500702416!4f10.648578501892814!5f0.7820865974627469",
     "photoSrc": "",
-    "mapLink": "https://maps.app.goo.gl/zTPBsYBQpmymGXzX6"
+    "mapLink": "https://maps.app.goo.gl/aM8sywzDeYyj5qZt5"
   },
   "reception": {
-    "title": "Recepción",
+    "title": "Ceremonia cívica ",
     "time": "09:00 hrs ",
-    "place": "Centro de Convenciones Posada del Río",
+    "place": "Escuela Primaria Federal Justo Sierra",
     "mediaMode": "preview",
     "iconSrc": "recepcion.png",
-    "mapLink": "https://maps.app.goo.gl/DwvQGpkTec4dTeVr8",
-    "mapEmbed": "https://www.google.com/maps/embed?pb=!3m2!1ses-419!2smx!4v1784406356581!5m2!1ses-419!2smx!6m8!1m7!1sSGFER0nSRDCKnO10adm2DA!2m2!1d25.55719968234142!2d-103.4943993146966!3f68.19951991550872!4f17.272107396622715!5f0.4000000000000002",
+    "mapLink": "https://maps.app.goo.gl/sNmobFSgyiobFDS57",
+    "mapEmbed": "https://www.google.com/maps/embed?pb=!3m2!1ses-419!2smx!4v1783215391846!5m2!1ses-419!2smx!6m8!1m7!1sXqwZ3P_w80Gb_Uw0kTJt2Q!2m2!1d19.76261599633266!2d-98.95470081715561!3f237.93126738436632!4f7.140937497379113!5f0.4000000000000002",
     "photoSrc": ""
   },
   "timeline": {
     "items": [
       {
-        "time": "15:30 hrs",
+        "time": "07:30 hrs",
         "title": "Ceremonia",
-        "desc": "Parroquia del Sagrado Corazón de Jesús."
+        "desc": "Iglesia de Santo Domingo"
       },
       {
-        "time": "17:00 hrs",
-        "title": "Recepción",
-        "desc": "Centro de Convenciones Posada del Río."
+        "time": "09:00 hrs",
+        "title": "Ceremonia cívica ",
+        "desc": "Escuela Primaria Federal Justo Sierra"
       },
       {
-        "time": "18:00 hrs",
-        "title": "Comida",
-        "desc": "Un momento para brindar y compartir."
-      },
-      {
-        "time": "20:00 hrs",
+        "time": "",
         "title": "Vals",
-        "desc": "Presentación de Sofia."
+        "desc": "Un momento lleno de emoción para celebrar el esfuerzo, la amistad y el inicio de una nueva etapa."
+      },
+      {
+        "time": "",
+        "title": "Ultimo pase de lista ",
+        "desc": "Un momento especial para despedir esta etapa escolar."
+      },
+      {
+        "time": "",
+        "title": "Entrega de documentos ",
+        "desc": "Entrega oficial de los documentos de fin de curso."
       }
     ]
   },
@@ -116,7 +121,7 @@
   "dressCode": {
     "title": "Dress Code",
     "value": "Formal",
-    "note": "Rosa reservado para la quinceañera."
+    "note": "Rose Gold reservado para la quinceañera."
   },
   "gifts": {
     "title": "Opciones de regalo",
@@ -154,16 +159,16 @@
   },
   "sections": {
     "story": true,
-    "parents": true,
-    "godparents": true,
+    "parents": false,
+    "godparents": false,
     "ceremony": true,
     "reception": true,
     "timeline": true,
     "countdown": true,
-    "gallery": true,
-    "dress": true,
-    "rsvp": true,
-    "gifts": true,
+    "gallery": false,
+    "dress": false,
+    "rsvp": false,
+    "gifts": false,
     "agenda": true,
     "album": false,
     "closing": true
@@ -195,7 +200,8 @@
     "ctaLabel": "Contáctanos",
     "ctaHref": "https://wa.me/525550591264?text=Hola%21%20Quiero%20una%20invitaci%C3%B3n%20digital%20con%20estilo%20elegante%20y%20me%20gustar%C3%ADa%20recibir%20informaci%C3%B3n."
   }
-}     
+}
+      
       ;
 
     let EVENT_DATE = new Date(INVITATION_CONFIG.event.eventDate);
